@@ -1,6 +1,8 @@
 # Change Directory Numbers Route Partition
 
-Python script to change the Route Partition on multiple DNs specified in an input file.
+Python script to change the Route Partition on multiple DNs specified in an input file.  
+This sample code is derived from the axl-python-zeep-samples sample code repository at:  
+https://github.com/CiscoDevNet/axl-python-zeep-samples
 
 ## Contacts
 
